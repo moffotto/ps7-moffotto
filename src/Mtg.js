@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import * as d3 from 'd3';
 import { Card, Button, CardBody, CardTitle, CardText } from 'reactstrap';
 import data from './cards.csv';
-import { isNullOrUndefined } from 'util';
 
 export class Mtg extends Component {
 
