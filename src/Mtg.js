@@ -23,7 +23,7 @@ export class Mtg extends Component {
         this.setState({
             data: cards
         })
-    }
+    } 
 
     render() {
 
